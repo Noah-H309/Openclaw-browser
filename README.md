@@ -45,6 +45,6 @@ In order to enable it:
 5. Run in another shell: openclaw browser --browser-profile openclaw start
 5. Enjoy automatic browsing experience!! You have to instruct model to use browser tool and guide it through  webpage, otherwise it won`t quite understand it. 
 
-OpenClaw installation is very easy through Ollama. To run it just paste in a web browser the WebUI URL.
+OpenClaw installation is very easy through Ollama. To run it just paste in a web browser the Web UI URL.
 
 ![image](https://github.com/Noah-H309/Enable-Openclaw-browser-tool/blob/main/url.png)
