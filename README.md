@@ -1,6 +1,6 @@
 ## How to enable browser tool in OpenClaw AI assistant
 
-This tool opens a Chrome/Brave/Edge/Chromium window of a browser that is already installed and navigates to the URL that you instruct AI model to go. It is quite useful e.g. 'play a relaxing Youtube video', but it is disabled by default. It works better than Brave embedded AI tool, though it still needs improvement. OpenClaw installation is very easy through Ollama.
+This tool opens a Chrome/Brave/Edge/Chromium window of a browser that is already installed and navigates to the URL that you instruct AI model to go. It is quite useful e.g. 'play a relaxing Youtube video', but it is disabled by default. It works better than Brave embedded AI tool, though it still needs improvement. 
 
 In order to enable it:
 
@@ -43,4 +43,6 @@ In order to enable it:
 
 4. Relaunch with shell command: ollama launch openclaw
 5. Run in another shell: openclaw browser --browser-profile openclaw start
-5. Enjoy automatic browsing experience!!
+5. Enjoy automatic browsing experience!! You have to instruct model to use browser tool and guide it through  webpage, otherwise it won`t quite understand it. 
+
+OpenClaw installation is very easy through Ollama.
